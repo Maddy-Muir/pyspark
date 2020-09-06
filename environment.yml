@@ -1,0 +1,15 @@
+name: pyspark
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - notebook
+  - jupyterhub
+  - jupyterlab
+  - matplotlib-base
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - sqlalchemy
+  - pyarrow
